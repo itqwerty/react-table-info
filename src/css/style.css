@@ -1,0 +1,43 @@
+.buttons {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 40px;
+}
+
+.buttons button {
+	width: 100px;
+}
+
+.table {
+	margin-top: 20px;
+}
+
+.hide {
+	display: none;
+}
+
+th:hover {
+	cursor: pointer;
+}
+
+.desc {
+	margin: 20px 0;
+}
+
+.desc div {
+	margin: 10px 0;
+	display: flex;
+}
+
+.desc div span {
+	margin-right: 10px;
+}
+
+textarea {
+	width: 500px;
+	height: 100px;
+}
+
+.filter {
+	margin: 40px 0;
+}
